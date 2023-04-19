@@ -26,7 +26,7 @@ def fomat_to_json(msg, imie):
 
 
 def plain_text(msg, imie):
-    ruturn imie + ' ' + msg
+    return imie + ' ' + msg
 
 
 def plain_text_upper_case(msg, imie):
